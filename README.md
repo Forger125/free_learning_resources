@@ -15,6 +15,7 @@ A collection of free technology &amp; computer science resources that I enjoy.
 
 ### Software Engineering
 - [Composing Programs](http://composingprograms.com/)
+- [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
 
 ### Programming languages
 
