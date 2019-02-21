@@ -1,6 +1,16 @@
 # Free Learning Resources
 A collection of free technology &amp; computer science resources that I enjoy.
 
+## Learning Paths/Education Plans
+
+### Computer Science/Software Engineering
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [OSSU CS](https://github.com/ossu/computer-science)
+
+### Other Disciplines
+- [OSSU Bioinformatics](https://github.com/ossu/bioinformatics)
+- [OSSU Data Science](https://github.com/ossu/data-science)
+
 ## Ebooks
 
 ### Software Engineering
