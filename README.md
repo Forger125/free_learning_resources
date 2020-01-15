@@ -45,3 +45,9 @@ A collection of free technology &amp; computer science resources that I enjoy.
 - UC Berkely CS61A Videos [2011 Course Videos](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) / [Course Website](https://cs61a.org/)
 
 ### Software Engineering
+
+### Programming Languages
+
+#### Python
+
+- [FreeCodeCamp Python for Everybody](https://www.youtube.com/watch?v=8DvywoWv6fI)
